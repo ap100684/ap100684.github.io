@@ -1,0 +1,136 @@
+body {
+  color: #40514E;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+hr{
+  color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+  margin: 150px auto;
+}
+p{
+    line-height: 2;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container {
+  position: relative;
+  background-color: #28527a;
+  padding-top: 100px;
+}
+
+.middle-container {
+margin: 100px 0;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+height: 200px;
+padding: 0 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.programmer {
+  position: relative;
+  margin: auto;
+  top: 70px;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.image1{
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+  height: 25%;
+}
+.image2{
+  margin-left: 30px;
+  float: right;
+  width: 25%;
+  height: 25%;
+}
+.descrip1{
+  color: #40514E;
+  width: 30%;
+  margin:auto;
+}
+  .BUTTON {
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+     font-weight:bold;
+     font-size: 20px;
+     padding: 18px;
+     background-color: #66BFBF;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+   margin: 50px auto 50px auto;
+}
+.contact{
+  height:auto;
+  color:#11999E;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.end-text{
+color: #EAF6F6;
+}
+.table{
+  border-spacing: 50px;
+  text-align: center;
+  margin: 50px auto;
+}
